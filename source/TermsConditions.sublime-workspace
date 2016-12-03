@@ -1,0 +1,861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"productName"
+			],
+			[
+				"vie",
+				"ViewLibrary"
+			],
+			[
+				"client",
+				"client3Denvironment"
+			],
+			[
+				"iframe",
+				"iframe3Denvironment"
+			],
+			[
+				"clientDe",
+				"clientDesktopOpen"
+			],
+			[
+				"ifram",
+				"iframeDesktopOpen"
+			],
+			[
+				"ins",
+				"instanceID"
+			],
+			[
+				"metal",
+				"metalParameters"
+			],
+			[
+				"Di",
+				"DiffusePBR"
+			],
+			[
+				"se",
+				"SetMetal"
+			],
+			[
+				"Mate",
+				"MaterialFactory"
+			],
+			[
+				"spec",
+				"SpecularPBR"
+			],
+			[
+				"diffu",
+				"DiffusePBR"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"al",
+				"AlbedoPBR"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mate",
+				"material"
+			],
+			[
+				"curren",
+				"currentApi"
+			],
+			[
+				"dek",
+				"clientDesktop"
+			],
+			[
+				"curr",
+				"currentApi"
+			],
+			[
+				"deskt",
+				"apiDesktop"
+			],
+			[
+				"diff",
+				"DiffusePBR_factor"
+			],
+			[
+				"mater",
+				"materialData"
+			],
+			[
+				"alb",
+				"albedoColor"
+			],
+			[
+				"plu",
+				"plugin_name"
+			],
+			[
+				"license",
+				"license_type"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"all",
+				"allMeshName"
+			],
+			[
+				"roll",
+				"roll_main"
+			],
+			[
+				"chkA",
+				"chkAutosplit_save"
+			],
+			[
+				"fn_s",
+				"fn_setGuiState"
+			],
+			[
+				"edit",
+				"editText"
+			],
+			[
+				"chk",
+				"chkAutosplit_save"
+			],
+			[
+				"ligh",
+				"lightingPreview"
+			],
+			[
+				"fil",
+				"filterLightingPreview"
+			],
+			[
+				"group",
+				"groupBox"
+			],
+			[
+				"extr",
+				"extraOptions"
+			],
+			[
+				"close",
+				"closeAll"
+			],
+			[
+				"clos",
+				"closeAll"
+			],
+			[
+				"str",
+				"strArrVisibilityGroup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.rst",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Access.rst",
+			"settings":
+			{
+				"buffer_size": 2893,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conf.py",
+			"settings":
+			{
+				"buffer_size": 10907,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synta maxs",
+				"Set Syntax: MaxScript"
+			],
+			[
+				"set synta maxs",
+				"Set Syntax: MaxScript"
+			],
+			[
+				"set syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set synt ini",
+				"Set Syntax: INI"
+			],
+			[
+				"syntax ini",
+				"Set Syntax: INI"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//AKUFEN/klaasnienhuis/01_admin/08_terms/Sphinx",
+		"//AKUFEN/klaasnienhuis/01_admin/08_terms/Sphinx/source"
+	],
+	"file_history":
+	[
+		"/P/JWV001 Jewelv configurator/02_out/2016-06-14 js code quadriceps/nudgeview.js",
+		"/P/JWV001 Jewelv configurator/02_out/2016-06-14 js code quadriceps/models_views.js",
+		"//AKUFEN/data/GitHub/JewelV/MaterialBuilder/DevUtilities.js",
+		"//AKUFEN/data/GitHub/JewelV/MaterialBuilder/Views.js",
+		"//AKUFEN/data/GitHub/JewelV/MaterialBuilder/MaterialLibrary.js",
+		"/N/GitHub/JewelV/MaterialBuilder/MaterialLibrary.js",
+		"/N/GitHub/JewelV/MaterialBuilder/Views.js",
+		"/N/GitHub/JewelV/MaterialBuilder/ModelPicker.js",
+		"//AKUFEN/data/GitHub/JewelV/MaterialBuilder/ModelPicker.js",
+		"//AKUFEN/data/GitHub/JewelV/MaterialBuilder/jw_probeert",
+		"/N/GitHub/JewelV/MaterialBuilder/test.ms",
+		"/N/GitHub/JewelV/MaterialBuilder/jw_probeert",
+		"/N/GitHub/JewelV/MaterialBuilder/DevUtilities.js",
+		"/N/GitHub/JewelV/MaterialBuilder/Stone_test.html",
+		"/N/GitHub/JewelV/MaterialBuilder/transparent_demo.html",
+		"/N/GitHub/sketchfab/Scriptfiles/Animation-export.html",
+		"//AKUFEN/data/Projecten/2015-10-14 Pisa/Panorama/Pano2.html",
+		"/N/GitHub/JewelV/MaterialBuilder/jquery.js",
+		"/N/GitHub/JewelV/MaterialBuilder/jQuery.js",
+		"/N/GitHub/JewelV/MaterialBuilder/claraio_demo.html",
+		"/K/03_projecten/DAM004_3Dassets/03_models/Production/ProductData/VanBommel_Veter.xml",
+		"/K/03_projecten/DAM004_3Dassets/03_models/Production/ProductData/VanBommel_Calf.xml",
+		"/N/GitHub/JewelV/MaterialBuilder/claraio_audi_example.html",
+		"/N/GitHub/JewelV/MaterialBuilder/claraio_test_001.html",
+		"/N/GitHub/JewelV/MaterialBuilder/transparent_semo",
+		"/N/GitHub/augmentedev/config/config.xml",
+		"/N/GitHub/BodyScan_max/Docs/source/Measure.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/Results.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/PHPsamples.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/APIresponses.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/Requests.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/Folders.rst",
+		"/N/GitHub/BodyScan_max/Docs/make.bat",
+		"/N/GitHub/BodyScan_max/Docs/source/Bingo.rst",
+		"/N/GitHub/BodyScan_max/Docs/source/conf.py",
+		"/N/GitHub/BodyScan_max/Docs/source/Fit.rst",
+		"/N/GitHub/Maproom/Docs/source/Location.rst",
+		"/N/GitHub/Maproom/Docs/source/RasterSources.rst",
+		"/N/GitHub/Maproom/Docs/source/Space.rst",
+		"/N/GitHub/Maproom/Docs/source/mapprojection/Introduction.rst",
+		"/N/GitHub/Maproom/Docs/source/BasicConcepts.rst",
+		"/N/GitHub/Maproom/Docs/source/mapprojection/Mercator.rst",
+		"/N/GitHub/Maproom/Docs/source/mapprojection/Mercator",
+		"/N/GitHub/Maproom/Docs/source/MapPresets.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Dependencies.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/conf.py",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/About.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Overview.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/make.bat",
+		"/N/GitHub/Shred/Docs/build/latex/Makefile",
+		"/C/Python34/Lib/site-packages/sphinx/writers/latex.py",
+		"/C/Python34/Lib/site-packages/sphinx/builders/latex.py",
+		"/C/Python34/Lib/site-packages/rst2pdf/pdfbuilder.py",
+		"/C/Users/klaas/AppData/Roaming/Sublime Text 2/Packages/User/cmd_make_pdf.sublime-build",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/List.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Why",
+		"/N/GitHub/Shred/Docs/build/html/Dependencies.html",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Repositories.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Tags.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/Shred.rst",
+		"//AKUFEN/data/GitHub/Shred/Docs/Makefile",
+		"//AKUFEN/data/GitHub/Shred/Docs/source/index.rst",
+		"//AKUFEN/data/Projecten 3d_script/2015-07-13 Sam Sternweiler Demo/Configurator_test/Animation-export.html",
+		"//AKUFEN/data/Projecten 3d_script/2015-07-13 Sam Sternweiler Demo/Configurator_test/Configurator_test.html",
+		"/C/Users/klaas/AppData/Roaming/Sublime Text 2/Packages/User/chrome.sublime-build",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/class-maproom-license-manager-admin.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/public/class-maproom-license-manager-public.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-s3.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/licenses_list.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/licenses_new.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/class-licenses-list-table.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/product_meta_box.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/public/class-maproom-license-manager-api.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/aws_settings_group_instructions.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/settings_page.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/maproom-license-manager.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/README.txt",
+		"/K/04_online/3dsmaproom/maproom-license-manager/uninstall.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/admin/partials/maproom-license-manager-admin-display.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-activator.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-deactivator.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-i18n.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-list-table.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/includes/class-maproom-license-manager-loader.php",
+		"/K/04_online/3dsmaproom/maproom-license-manager/public/partials/maproom-license-manager-public-display.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/includes/class-maproom-license-manager-list-table.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/class-maproom-license-manager-admin.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/class-licenses-list-table.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/maproom-license-manager.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/includes/class-maproom-license-manager.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/partials/licenses_list.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/includes/class-maproom-license-manager-activator.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/partials/licenses_new.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/Licenses_List_Table.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/public/class-maproom-license-manager-public.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/partials/product_meta_box.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/admin/partials/maproom-license-manager-admin-display.php",
+		"/K/04_online/3dsmaproom/WordPress-Plugin-Boilerplate-master/maproom-license-manager/includes/class-plugin-name-activator.php",
+		"/N/GitHub/BodyScan_max/scriptfiles/RUNGUI_bodyscanLandmark.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/RUNTEST_bodyscanLandmark.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_autoUpdate.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_errorhandling.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_event.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_ghosting.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_gui_menu.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_gui_methods.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_gui_popup.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_gui_rollout.ms",
+		"/N/GitHub/BodyScan_max/scriptfiles/bodyscanLandmark_rolloutFunctions.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/RUNGUI_scriptdummy.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/config/mzpbuilder_dummyFloaterWithMenu.ini",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_autoUpdate.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_errorhandling.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_event.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_ghosting.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_gui_menu.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/RUNTEST_scriptDummy.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_gui_methods.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_gui_popup.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_gui_rollout.ms",
+		"/N/GitHub/maxscript/ScriptDummy_floaterWithMenu/scriptfiles/scriptDummy_rolloutFunctions.ms",
+		"/N/GitHub/FLP001converter/my_log.txt",
+		"/N/GitHub/FLP001converter/scriptfiles/FLP001converter_event.ms",
+		"/N/GitHub/FLP001converter/scriptfiles/FLP001converter_gui.ms",
+		"/N/GitHub/FLP001converter/scriptfiles/RUNGUI_FLP001converter.ms"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open files>,K:\\04_online\\3dsmaproom\\WordPress-Plugin-Boilerplate-master\\maproom-license-manager",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[",
+			"77633",
+			"ViewLargeEarring",
+			"ViewMediumEarring",
+			"ViewSmallEarring",
+			"ViewLargePendant",
+			"ViewSmallPendant",
+			"ViewMediumPendant",
+			"ViewLargeRing",
+			"ViewMediumRing",
+			"ViewSmallRing",
+			"\"dropdown\"",
+			"small",
+			"Ring",
+			"',currentClient,autospin)\"",
+			"onclick=\"ModelPicker.Pick('",
+			"ChangeStone",
+			"','Main_01')\"",
+			"onclick=\"MaterialFactory.ChangeStone(currentApi,'",
+			"camera",
+			"80519",
+			"ViewMediumEarring",
+			"15",
+			"64",
+			"13",
+			"			eye: [17.37,-40.39,21.82],\n			lookat: [-2.49,3.84,12.52]",
+			"7.",
+			"7.5",
+			"ViewMediumPendant",
+			"Pendant",
+			"15",
+			"64",
+			"7.5",
+			"ViewMediumPendant",
+			"\"ViewMedium\"",
+			"ViewMedium",
+			"P",
+			"ViewMedium",
+			"Ring",
+			"ViewMedium",
+			"eye",
+			"CurrentProduct",
+			"SetView",
+			"CurrentProduct",
+			": {",
+			"CurrentProduct",
+			"4",
+			"ModelPicker.Pick",
+			"getMaterialList",
+			"duration",
+			"P052177",
+			"panel-background",
+			"menuwidth",
+			"bgimgOpen",
+			"bgStones",
+			"iframeStones",
+			"panel-background",
+			"bgBlack",
+			"3",
+			"SetView",
+			"panel-body",
+			"bgimgMobile",
+			"bgimg",
+			"ontopimg",
+			"desktop",
+			"sketchfab-iframe",
+			"Pick(",
+			"Pick",
+			" Brown",
+			"Brown",
+			"theMetal",
+			"metalName",
+			"MakeDefaultStone",
+			"img1",
+			"panel-background",
+			"4",
+			"api3Denvironment",
+			"iframe3Denvironment",
+			"16by9",
+			"setPost",
+			"bloom",
+			"clientDesktopOpen",
+			"Desktop",
+			"SetMaterialProperties",
+			"clientStones",
+			"cut : [\"heart\"]",
+			"\"large\"",
+			"CurrentProduct",
+			"ShowIndividualStone",
+			"prefix",
+			"info",
+			"default",
+			"nodes[keys[n]]",
+			"clientMobile",
+			"Pick",
+			"setMaterial",
+			"SetMaterial",
+			":",
+			",",
+			"MaterialLibrary",
+			"SetStone",
+			"stoneParameters",
+			"DefaultMetal",
+			"SetMaterial",
+			"Opacity_enable: false",
+			"			DiffusePBR_color: [0, 0, 0],\n			DiffusePBR_factor: 0,\n",
+			"			DiffusePBR_color: [1,1,1],\n			DiffusePBR_factor: 0.0,\n",
+			"Opacity_factor: 0.93,",
+			"	}\n	},	",
+			"	}\n	},",
+			"outside:",
+			" =",
+			"Opacity_enable = false,",
+			"Opacity_factor = 0.93,",
+			";",
+			"outside.",
+			"inside.",
+			"},",
+			"function (inside,outside) ",
+			"GlossinessPBR",
+			"metalParameters",
+			" =",
+			";",
+			"material.",
+			"function",
+			"material.GlossinessPBR_factor =",
+			"material.SpecularPBR_color = ",
+			"function (material)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bgdesigndesktop",
+			"tab_desktop",
+			"sketchfab_iframe_desktop",
+			"sketchfab-iframe",
+			"maproom-licenses",
+			"Maproom_License_Manager",
+			"maproom_license_manager_product_meta",
+			"maproom-license-manager",
+			"maproom_license_manager",
+			"Maproom_License_Manager",
+			"maproom_license_manager",
+			"maproom-license-manager",
+			"maproom_license_manager",
+			"maproom_license_manager_List_Table",
+			"maproom_license_manager",
+			"maproom-license-manager",
+			"maproom_license_manager",
+			"maproom-license-manager",
+			"maproom_license_manager",
+			"bodyscanLandmark",
+			"scriptDummy",
+			"",
+			"td",
+			"reimarkt-config-embed",
+			"popup_extraOptions",
+			"popup_token",
+			"popup_proxy",
+			"bannerPath",
+			"popup_update",
+			"popup_about",
+			"rolloutFunctions",
+			"popup_error"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Access.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1572,
+								1572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2137,
+								2137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TermsConditions.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"even",
+				"scriptfiles/FLP001converter_event.ms"
+			],
+			[
+				"rungui",
+				"scriptfiles/RUNGUI_FLP001converter.ms"
+			],
+			[
+				"flp001",
+				"scriptfiles/FLP001converter.ms"
+			],
+			[
+				".ms",
+				"Build/payload/scriptfiles/FLP001converter_gui.ms"
+			],
+			[
+				".ini",
+				"config/mzpbuilder_exhibitCore.ini"
+			],
+			[
+				"rcm",
+				"scriptfiles/rcMediaFloorplanner.ms"
+			],
+			[
+				"error",
+				"scriptfiles/rcMediaFloorplanner_errorhandling.ms"
+			],
+			[
+				"rollou",
+				"scriptfiles/rcMediaFloorplanner_rolloutFunctions.ms"
+			],
+			[
+				"auto",
+				"scriptfiles/rcMediaFloorplanner_autoUpdate.ms"
+			],
+			[
+				"ro",
+				"Presets/layerComp_rolloutSettings.ini"
+			],
+			[
+				"layercom",
+				"scriptfiles/layerComp.ms"
+			],
+			[
+				"confg/",
+				"config/mzpbuilder_scriptDummy.ini"
+			],
+			[
+				"datacon",
+				"scriptfiles/rcMediaFloorplanner_dataContainers.ms"
+			],
+			[
+				"_xml",
+				"scriptfiles/rcMediaFloorplanner_XML.ms"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "maproo",
+		"selected_items":
+		[
+			[
+				"maproo",
+				"N:\\GitHub\\Maproom\\Maproom_code.sublime-project"
+			],
+			[
+				"maproom",
+				"N:\\GitHub\\Maproom\\Maproom_code.sublime-project"
+			],
+			[
+				"jew",
+				"P:\\JWV001 Jewelv configurator\\06_docs\\Docs_JewelV\\JewelV_docs.sublime-project"
+			],
+			[
+				"",
+				"//AKUFEN/data/GitHub/Shred/Doc_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
